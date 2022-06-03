@@ -12,7 +12,7 @@
 <a href="mailto:alasgar2002@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/alasgar2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<!-- 
 ## :man_technologist:   Github stats
 
 <p align="center">
@@ -20,13 +20,7 @@
     /> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasgarshabanov&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p>
-
-
-
-
-
-
-
+ -->
 
 
 
