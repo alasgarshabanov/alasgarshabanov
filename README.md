@@ -9,8 +9,8 @@
 <!-- ## Contact me -->
 ## 📫 How to reach me:
 
-<a href="mailto:alasgar2002@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/alasgar2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:miralasgar@gmail.com-">
+<img alt="eMail" src="https://img.shields.io/badge/miralasgar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <!-- 
 ## :man_technologist:   Github stats
